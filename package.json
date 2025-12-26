@@ -87,7 +87,7 @@
                     "vtuber-wiki": "^1.1.5",
                     "websocket-stream": "^5.5.2",
                     "wikijs": "^6.3.3",
-                                "uzair-mtx-downloader": "^1.4.4",
+                              "uzair-mtx-downloader": "^1.4.4",
                     "youtube-search-api": "^1.1.0",
                     "yt-search": "^2.10.4",
                     "ytdl-core": "^4.11.2",
